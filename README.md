@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Standard Bank Online Banking](https://onlinebanking.standardbank.co.za/#/landing-page)
 
-- 🌱 I’m currently learning **Golang, GraphQL, Kafka, Rust**
+- 🌱 I’m currently learning **Golang, Rust**
 
 - 📝 I started writing articles on [https://devilears.hashnode.dev/](https://devilears.hashnode.dev/)
 
