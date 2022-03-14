@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **devilliers.neethling@gmail.com**
 
-- ⚡ Fun fact **The air speed velocity of an unladen European Swallow is estimated at 10 m per second**
+- ⚡ Fun fact **the air speed velocity of an unladen European Swallow is estimated at 10 m per second**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
