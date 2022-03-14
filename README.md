@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👋 I'm De Villiers Neethling</h1>
+<h1 align="center">Greetings 🤘 I'm De Villiers Neethling</h1>
 <h3 align="center">Senior software engineer from South Africa who prefers backend engineering</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilears" alt="devilears" /></a> </p>
