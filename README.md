@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **the air speed velocity of an unladen European Swallow is estimated at 10 m per second**
 
-- 📫 How to reach me: Text, if I'm AFK I cannot help you. Alternatively try **devilliers.neethling@gmail.com**, or send a crow
+- 📫 How to reach me: Text, if I'm AFK I cannot help you. Alternatively, send a crow
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
