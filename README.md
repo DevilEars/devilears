@@ -1,11 +1,11 @@
 <h1 align="left">Greetings 🤘 I'm De Villiers Neethling</h1>
 <h3 align="left">Tech Lead in UAT from South Africa who prefers back-end engineering</h3>
 
-- 🔭 I’m currently working on [MTN Fintech](https://momo.mtn.com/home-page/)
+- 🔭 I’m currently working on [MTN Fintech](https://momo.mtn.com/home-page/), my current [Entelect](https://entelect.com) client
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📝 I started writing articles on [https://devilears.hashnode.dev/](https://devilears.hashnode.dev/)
+- 📝 I started writing articles on [Novelty Theory](https://devilears.hashnode.dev/) (hand-rolled), and [Roadie Amplifier](https://roadieamplifier.substack.com/) (AI-slop) 
 
 - 💬 Ask me about **Java**
 
